@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="Llvall logo" width="120">
+
 # 🎵 Llvall
 
 **An elegant music app for Android — pure black, beautiful covers, full-track playback.**

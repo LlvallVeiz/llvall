@@ -35,7 +35,7 @@
 
 ## 📸 Screenshots
 
-> Screenshots are being added — the app speaks for itself below.
+> App UI previews (illustrated mockups of the real app).
 
 | Home | Now Playing |
 |---|---|

@@ -4,14 +4,14 @@
 
 **An elegant music app for Android — pure black, beautiful covers, full-track playback.**
 
-[![Download APK](https://img.shields.io/badge/Download-APK-1DB954?style=for-the-badge&logo=android)](https://github.com/LlvallVeiz/llvall/releases/download/v1.0.0/llvall-v1.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-1DB954?style=for-the-badge&logo=android)](https://raw.githubusercontent.com/LlvallVeiz/llvall/main/llvall.apk)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android)
 ![Version](https://img.shields.io/badge/version-1.0.0-1DB954?style=flat-square)
 ![License](https://img.shields.io/badge/license-All%20rights%20reserved-lightgrey?style=flat-square)
 
 *Full tracks. Background play. Synced lyrics & karaoke. Import from Spotify & YouTube Music.*
 
-[⬇️ Download the APK](https://github.com/LlvallVeiz/llvall/releases/download/v1.0.0/llvall-v1.0.0.apk)
+[⬇️ Download the APK](https://raw.githubusercontent.com/LlvallVeiz/llvall/main/llvall.apk)
 
 </div>
 
@@ -47,12 +47,14 @@
 
 ## ⬇️ Download & install
 
-1. Download the APK: **[llvall-v1.0.0.apk](https://github.com/LlvallVeiz/llvall/releases/download/v1.0.0/llvall-v1.0.0.apk)** (~29 MB)
+1. Download the APK: **[llvall.apk](https://raw.githubusercontent.com/LlvallVeiz/llvall/main/llvall.apk)** (~29 MB)
 2. On your phone, allow **“Install unknown apps”** for your browser when asked.
 3. Open the downloaded APK and tap **Install**.
 4. Open **Llvall**, sign in with Google, and enjoy the music. 🎶
 
 > **Note:** each new build is signed with a fresh debug keystore, so please **uninstall the previous version first** before installing a new one.
+
+📦 Release: [v1.0.0](https://github.com/LlvallVeiz/llvall/releases/tag/v1.0.0)
 
 ---
 
